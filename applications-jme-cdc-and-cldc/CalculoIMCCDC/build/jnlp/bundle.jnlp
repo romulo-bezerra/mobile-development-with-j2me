@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jnlp codebase="sb:///WTK_AGUI/">
+
+  <resources>
+    <j2se version="1.4+"/>
+    <jar href="lib/classes.jar"/>
+  </resources>
+
+  <information>
+    <title>CdcApplication15</title>
+    <vendor>Vendor</vendor>
+  </information>
+
+  <application-desc main-class="cdcapplication15.Main">
+  </application-desc>
+
+</jnlp>
